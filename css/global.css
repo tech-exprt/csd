@@ -11,3 +11,10 @@ h1
 	font-size: 2em;
 	font-family: verdana;
 }
+
+a
+{
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-right: 10px;
+}
